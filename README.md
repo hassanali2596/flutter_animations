@@ -8,7 +8,7 @@ A comprehensive collection of Flutter animation implementations demonstrating va
 
 Watch the app in action:
 
-<img src="screen_shots/app_record_screen.gif" alt="Demo Video of Flutter Animations" width="400" height="869.5"/>
+<img src="screen_shots/app_record_screen.gif" alt="Demo Video of Flutter Animations" width="300" height="652.5"/>
 
 ## Features
 
