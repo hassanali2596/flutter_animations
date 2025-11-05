@@ -8,7 +8,7 @@ A comprehensive collection of Flutter animation implementations demonstrating va
 
 Watch the app in action:
 
-https://github.com/user/flutter_animations_example/raw/main/screen_shots/app_record_screen.mp4
+![Flutter Animations Demo](screen_shots/app_record_screen.mp4)
 
 ## Features
 
