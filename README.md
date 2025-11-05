@@ -8,9 +8,11 @@ A comprehensive collection of Flutter animation implementations demonstrating va
 
 Watch the app in action:
 
-<video src="screen_shots/app_record_screen.mp4" controls="controls" muted="muted" width="300" height="652.5">
-  Your browser does not support the video tag.
-</video>
+<img src="screen_shots/app_record_screen1.gif" alt="Demo Video of Flutter Animations" width="150" height="326"/>
+<img src="screen_shots/app_record_screen2.gif" alt="Demo Video of Flutter Animations" width="150" height="326"/>
+<img src="screen_shots/app_record_screen3.gif" alt="Demo Video of Flutter Animations" width="150" height="326"/>
+<img src="screen_shots/app_record_screen4.gif" alt="Demo Video of Flutter Animations" width="150" height="326"/>
+
 ## Features
 
 This project showcases 21 different animation examples in Flutter:
