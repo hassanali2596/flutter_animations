@@ -8,9 +8,7 @@ A comprehensive collection of Flutter animation implementations demonstrating va
 
 Watch the app in action:
 
-<video src="screen_shots/app_record_screen.mp4" controls="controls" muted="muted" width="640" height="480">
-  Your browser does not support the video tag.
-</video>
+![Demo Video of Flutter Animations](screen_shots/app_record_screen.gif)
 
 ## Features
 
